@@ -1,0 +1,7 @@
+{
+  "name": "whales_checker",
+  "version": "1.0.0",
+  "description": "checks unusual whales for a user",
+  "main": "index.js",
+  "license": "MIT"
+}
